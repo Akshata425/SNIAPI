@@ -1,0 +1,9 @@
+2020-07-25 15:42:39,320 [1] INFO  SNIAPI.WebApiApplication [Application_Start] - Application started.
+2020-07-25 16:10:40,138 [1] INFO  SNIAPI.WebApiApplication [Application_Start] - Application started.
+2020-07-25 16:32:47,813 [1] INFO  SNIAPI.WebApiApplication [Application_Start] - Application started.
+2020-07-25 16:42:49,258 [1] INFO  SNIAPI.WebApiApplication [Application_Start] - Application started.
+2020-07-25 16:46:30,721 [1] INFO  SNIAPI.WebApiApplication [Application_Start] - Application started.
+2020-07-25 16:50:34,890 [12] INFO  SNIAPI.WebApiApplication [Application_Start] - Application started.
+2020-07-25 16:50:37,395 [5] INFO  SNIAPI.Controllers.StudentAPIController [PostPaymentStatus] - This could be an error
+2020-07-25 16:52:36,341 [16] INFO  SNIAPI.Controllers.StudentAPIController [PostPaymentStatus] - This could be an error
+2020-07-25 16:54:59,759 [1] INFO  SNIAPI.WebApiApplication [Application_Start] - Application started.
